@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sayandeep27/Know-Weather.git/static/css/main.6f69e029.css",
+    "main.js": "/Sayandeep27/Know-Weather.git/static/js/main.097876f4.js",
+    "index.html": "/Sayandeep27/Know-Weather.git/index.html",
+    "main.6f69e029.css.map": "/Sayandeep27/Know-Weather.git/static/css/main.6f69e029.css.map",
+    "main.097876f4.js.map": "/Sayandeep27/Know-Weather.git/static/js/main.097876f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f69e029.css",
+    "static/js/main.097876f4.js"
+  ]
+}
